@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "emojipicker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Kelvas09/EmojiPicker.git",
+      "state" : {
+        "revision" : "d787591e2121b617209172ad6a8ebf2975f605ae",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "smile",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onmyway133/Smile",
+      "state" : {
+        "revision" : "40604722a7a56f735124e069fcbb58307637744b",
+        "version" : "2.1.0"
+      }
+    },
+    {
+      "identity" : "swiftsunburstdiagram",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lludo/SwiftSunburstDiagram.git",
+      "state" : {
+        "revision" : "23ac804b97642ca288d5cdd0c0cc339e2d9353ec",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "symbolpicker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xnth97/SymbolPicker.git",
+      "state" : {
+        "revision" : "e0601230feea4289760c0e5b68dbafa15aa59bfb",
+        "version" : "1.5.1"
+      }
+    }
+  ],
+  "version" : 2
+}
